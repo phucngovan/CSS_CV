@@ -1,0 +1,14 @@
+#name {
+    font-style:italic;
+}
+#head {
+    background-color: bisque;
+    float: left;
+
+}
+#img {
+    width: 100px;
+    height: 100px;
+    float: right;
+    padding-right: 700px;
+}
